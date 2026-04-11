@@ -47,7 +47,7 @@ Para funções, utilize o seguinte padrão de documentação em C:
  * @param a Primeiro número
  * @param b Segundo número
  * @return A soma de a e b
- * @author Carlos Gomes
+ * @author Nome
  */
 int soma(int a, int b) {
     return a + b;
