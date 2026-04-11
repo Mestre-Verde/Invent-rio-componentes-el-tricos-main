@@ -67,3 +67,4 @@ int soma(int a, int b) {
 # Notas de comunidade
  - Proibido leftis woke;
  - Proibidos terroristas islamicos e seus apoiadores;
+ - Mentes independentes e introvertidos são mais do que bem vindos;
