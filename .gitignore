@@ -31,3 +31,5 @@ bin/
 .clang-format*
 
 Usefull_Information/C
+
+*.tmp
